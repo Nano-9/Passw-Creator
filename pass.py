@@ -47,8 +47,7 @@ print("""\033[1;33m
                                          versão 1.0                                                      \033[m""")
 print("""
 
-Meu Facebook > https://www.facebook.com/Walker.Lxrd
-Meu GitHub > https://github.com/lucas-Dk
+Meu GitHub > https://github.com/nano-9
 
               ----------
 Este é um gerador de senhas super fortes
